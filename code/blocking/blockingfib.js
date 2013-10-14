@@ -8,7 +8,7 @@ var server = net.createServer(function (socket) {
 
 function fibonacciRunner()
 {
-	fib(10);
+	console.log("Fibonacci number 26 is: " + fib(26));
 }
 
 function fib(number)
