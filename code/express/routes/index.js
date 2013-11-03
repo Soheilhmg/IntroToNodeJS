@@ -1,4 +1,4 @@
-
+var exports = exports || {};
 /*
  * GET home page.
  */

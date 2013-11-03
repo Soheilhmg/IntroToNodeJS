@@ -12,7 +12,7 @@
     "grunt-contrib": "*",
     "grunt-contrib-compress": "*",
     "grunt-contrib-csslint": "*",
-    "grunt-jslint": "*"
-
+    "grunt-jslint": "*",
+    "grunt-contrib-jasmine": "*"
   }
 }
