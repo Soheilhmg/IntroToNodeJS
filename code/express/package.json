@@ -7,6 +7,12 @@
   },
   "dependencies": {
     "express": "3.4.0",
-    "jade": "*"
+    "jade": "*",
+    "grunt":"*",
+    "grunt-contrib": "*",
+    "grunt-contrib-compress": "*",
+    "grunt-contrib-csslint": "*",
+    "grunt-jslint": "*"
+
   }
 }

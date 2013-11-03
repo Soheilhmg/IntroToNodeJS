@@ -3,6 +3,7 @@
  * GET home page.
  */
 
-exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
+/*jslint unparam:true */
+exports.index = function (req, res) {
+    res.render('index', { title: 'Express' });
 };
